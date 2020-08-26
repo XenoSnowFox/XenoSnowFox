@@ -18,6 +18,7 @@
 ![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
 
+
 ## 💻 What have I worked on?
 
 - [DDLScript.com](https://ddlscript.com)
@@ -26,6 +27,12 @@
   
   **URL:** [ddlscript.com](https://ddlscript.com)
 
+
+
+## 📰 Blog Posts
+
+- [You’re thinking about API versioning in the wrong way.](https://medium.com/@XenoSnowFox/youre-thinking-about-api-versioning-in-the-wrong-way-6c656c1c516b)
+- [How to install Upsource on Ubuntu.](https://medium.com/@XenoSnowFox/how-to-install-upsource-on-ubuntu-c449c3c36721)
 <!--
 **XenoSnowFox/XenoSnowFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
